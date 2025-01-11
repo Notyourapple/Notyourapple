@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Notyourapple
+- 👋 Hi, I’m xalt3heris
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me idk
