@@ -3,7 +3,7 @@
     <linearGradient id="div-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0" />
       <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.3" />
-      <stop offset="50%" stop-color="#6D5EFF" stop-opacity="1" />
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.9" />
       <stop offset="80%" stop-color="#38BDF8" stop-opacity="0.3" />
       <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
     </linearGradient>
@@ -18,13 +18,13 @@
   </defs>
 
   <!-- Glowing Line -->
-  <line x1="50" y1="15" x2="950" y2="15" stroke="url(#div-grad)" stroke-width="2" filter="url(#div-glow)" />
+  <line x1="40" y1="15" x2="960" y2="15" stroke="url(#div-grad)" stroke-width="1.8" filter="url(#div-glow)" />
 
   <!-- Central Sparkle / Diamond -->
   <g transform="translate(500, 15)">
-    <polygon points="0,-8 6,0 0,8 -6,0" fill="#8B5CF6" filter="url(#div-glow)" />
-    <circle cx="0" cy="0" r="3" fill="#F8FAFC" />
+    <polygon points="0,-7 6,0 0,7 -6,0" fill="#C084FC" filter="url(#div-glow)" />
+    <circle cx="0" cy="0" r="2.5" fill="#FFFFFF" />
   </g>
-  <circle cx="430" cy="15" r="2.5" fill="#6D5EFF" opacity="0.8" />
-  <circle cx="570" cy="15" r="2.5" fill="#38BDF8" opacity="0.8" />
+  <circle cx="420" cy="15" r="2" fill="#8B5CF6" opacity="0.8" />
+  <circle cx="580" cy="15" r="2" fill="#38BDF8" opacity="0.8" />
 </svg>

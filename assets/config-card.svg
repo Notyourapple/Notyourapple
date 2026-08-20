@@ -1,18 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 480" width="100%" height="100%">
   <defs>
     <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#111118" />
-      <stop offset="100%" stop-color="#09090B" />
+      <stop offset="0%" stop-color="#080c1a" />
+      <stop offset="50%" stop-color="#050813" />
+      <stop offset="100%" stop-color="#04060e" />
     </linearGradient>
 
     <linearGradient id="card-border" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.5" />
-      <stop offset="50%" stop-color="#6D5EFF" stop-opacity="0.2" />
-      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.4" />
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.6" />
+      <stop offset="35%" stop-color="#6366F1" stop-opacity="0.3" />
+      <stop offset="70%" stop-color="#38BDF8" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.3" />
     </linearGradient>
 
+    <radialGradient id="card-glow" cx="80%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#080c1a" stop-opacity="0" />
+    </radialGradient>
+
     <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
-      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.7"/>
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.75"/>
     </filter>
 
     <style>
@@ -23,8 +30,10 @@
       }
       .keyword { fill: #C084FC; font-weight: 600; }
       .variable { fill: #38BDF8; font-weight: 600; }
-      .property { fill: #F8FAFC; }
-      .string { fill: #22C55E; }
+      .property { fill: #E2E8F0; }
+      .string { fill: #34D399; }
+      .array-str { fill: #F472B6; }
+      .learn-str { fill: #FBBF24; }
       .punctuation { fill: #94A3B8; }
       .line-num { fill: #475569; font-size: 12px; user-select: none; }
       .comment { fill: #64748B; font-style: italic; }
@@ -33,20 +42,25 @@
 
   <!-- Main Card Container -->
   <rect x="10" y="10" width="830" height="460" rx="14" fill="url(#card-bg)" stroke="url(#card-border)" stroke-width="1.5" filter="url(#shadow)" />
+  <rect x="10" y="10" width="830" height="460" rx="14" fill="url(#card-glow)" />
 
   <!-- Top Title Bar -->
-  <rect x="10" y="10" width="830" height="42" rx="14" fill="#09090B" fill-opacity="0.6" />
-  <path d="M 10 52 L 840 52" stroke="#8B5CF6" stroke-opacity="0.15" stroke-width="1" />
+  <path d="M 10 24 C 10 16.268 16.268 10 24 10 L 826 10 C 833.732 10 840 16.268 840 24 L 840 52 L 10 52 Z" fill="#060913" fill-opacity="0.9" />
+  <path d="M 10 52 L 840 52" stroke="#8B5CF6" stroke-opacity="0.2" stroke-width="1" />
 
   <!-- Window Dots -->
-  <circle cx="35" cy="31" r="5.5" fill="#FF5F56" />
-  <circle cx="53" cy="31" r="5.5" fill="#FFBD2E" />
-  <circle cx="71" cy="31" r="5.5" fill="#27C93F" />
+  <circle cx="35" cy="31" r="5.5" fill="#EF4444" opacity="0.8" />
+  <circle cx="53" cy="31" r="5.5" fill="#F59E0B" opacity="0.8" />
+  <circle cx="71" cy="31" r="5.5" fill="#10B981" opacity="0.8" />
 
-  <!-- Title Text -->
-  <text x="425" y="35" text-anchor="middle" font-family="'Fira Code', monospace" font-size="12" fill="#94A3B8" font-weight="500">
-    ⚡ gaurab.config.ts
-  </text>
+  <!-- Tab -->
+  <g transform="translate(100, 16)">
+    <rect width="170" height="28" rx="6" fill="#0e152e" stroke="#8B5CF6" stroke-opacity="0.3" stroke-width="1" />
+    <circle cx="14" cy="14" r="3" fill="#38BDF8" />
+    <text x="26" y="18" font-family="'Fira Code', monospace" font-size="12" fill="#E2E8F0" font-weight="500">
+      gaurab.config.ts
+    </text>
+  </g>
 
   <!-- TS Badge -->
   <rect x="765" y="21" width="55" height="20" rx="4" fill="#3178C6" fill-opacity="0.2" stroke="#3178C6" stroke-opacity="0.5" stroke-width="1" />
@@ -94,32 +108,32 @@
 
     <!-- Line 4 -->
     <text x="20" y="160">
-      <tspan class="property">location</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"Assam, India 🇮🇳"</tspan><tspan class="punctuation">,</tspan>
+      <tspan class="property">location</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"Assam, India"</tspan><tspan class="punctuation">,</tspan>
     </text>
 
     <!-- Line 5 -->
     <text x="20" y="184">
-      <tspan class="property">learning</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">"Docker"</tspan><tspan class="punctuation">,</tspan> <tspan class="string">"System Design"</tspan><tspan class="punctuation">,</tspan> <tspan class="string">"Cloud Native"</tspan><tspan class="punctuation">],</tspan>
+      <tspan class="property">focus</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">"AI"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Web"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Automation"</tspan><tspan class="punctuation">],</tspan>
     </text>
 
     <!-- Line 6 -->
     <text x="20" y="208">
-      <tspan class="property">currentlyBuilding</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan
+      <tspan class="property">currentlyBuilding</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan>
     </text>
 
     <!-- Line 7 -->
     <text x="40" y="232">
-      <tspan class="string">"AI Trading Bot"</tspan><tspan class="punctuation">,</tspan>
+      <tspan class="array-str">"AIMA"</tspan><tspan class="punctuation">,</tspan>
     </text>
 
     <!-- Line 8 -->
     <text x="40" y="256">
-      <tspan class="string">"CraftConnect Platform"</tspan><tspan class="punctuation">,</tspan>
+      <tspan class="array-str">"Photography Web"</tspan><tspan class="punctuation">,</tspan>
     </text>
 
     <!-- Line 9 -->
     <text x="40" y="280">
-      <tspan class="string">"DRYM Music Ecosystem"</tspan>
+      <tspan class="array-str">"CraftConnect"</tspan>
     </text>
 
     <!-- Line 10 -->
@@ -129,31 +143,26 @@
 
     <!-- Line 11 -->
     <text x="20" y="328">
-      <tspan class="property">openTo</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">"Freelance Projects"</tspan><tspan class="punctuation">,</tspan> <tspan class="string">"Open Source"</tspan><tspan class="punctuation">,</tspan> <tspan class="string">"Hackathons"</tspan><tspan class="punctuation">],</tspan>
+      <tspan class="property">learning</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="learn-str">"Docker"</tspan><tspan class="punctuation">, </tspan><tspan class="learn-str">"System Design"</tspan><tspan class="punctuation">, </tspan><tspan class="learn-str">"Cloud"</tspan><tspan class="punctuation">],</tspan>
     </text>
 
     <!-- Line 12 -->
     <text x="20" y="352">
-      <tspan class="property">funFact</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"I produce music at 2 AM &amp; turn code into sound 🎧"</tspan><tspan class="punctuation">,</tspan>
+      <tspan class="property">openTo</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">"Full-time"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Collab"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Open Source"</tspan><tspan class="punctuation">],</tspan>
     </text>
 
     <!-- Line 13 -->
     <text x="20" y="376">
-      <tspan class="property">coffeeLevel</tspan><tspan class="punctuation">:</tspan> <tspan class="keyword">Infinity</tspan><tspan class="punctuation">,</tspan>
+      <tspan class="property">funFact</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"I turn ideas into code 🚀"</tspan>
     </text>
 
     <!-- Line 14 -->
-    <text x="20" y="400">
-      <tspan class="property">status</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"Shipping Code ⚡"</tspan>
+    <text x="0" y="400">
+      <tspan class="punctuation">};</tspan>
     </text>
 
     <!-- Line 15 -->
     <text x="0" y="424">
-      <tspan class="punctuation">};</tspan>
-    </text>
-
-    <!-- Line 16 -->
-    <text x="0" y="448">
       <tspan class="keyword">export default</tspan> <tspan class="variable">gaurab</tspan><tspan class="punctuation">;</tspan>
     </text>
   </g>
