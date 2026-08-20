@@ -43,7 +43,7 @@
       <td width="70%" valign="middle">
         <p>
           <b>👋 Hello, World!</b><br/>
-          I'm <b>Gaurab Dowerah</b>, a Full Stack Developer &amp; AI Engineer passionate about building scalable web applications, intelligent AI systems, and automation workflows.
+          I'm <b>Gaurab Dowerah</b>, a Full Stack Developer &amp; AI Engineer passionate about building intelligent applications, AI-powered systems, and scalable digital experiences.
         </p>
         <p>
           <i>"Building intelligent systems with code, AI &amp; creativity."</i>
