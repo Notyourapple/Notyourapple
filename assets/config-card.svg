@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111118" />
+      <stop offset="100%" stop-color="#09090B" />
+    </linearGradient>
+
+    <linearGradient id="card-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#6D5EFF" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.4" />
+    </linearGradient>
+
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.7"/>
+    </filter>
+
+    <style>
+      .code-font {
+        font-family: 'Fira Code', 'JetBrains Mono', Consolas, Monaco, monospace;
+        font-size: 13.5px;
+        line-height: 1.6;
+      }
+      .keyword { fill: #C084FC; font-weight: 600; }
+      .variable { fill: #38BDF8; font-weight: 600; }
+      .property { fill: #F8FAFC; }
+      .string { fill: #22C55E; }
+      .punctuation { fill: #94A3B8; }
+      .line-num { fill: #475569; font-size: 12px; user-select: none; }
+      .comment { fill: #64748B; font-style: italic; }
+    </style>
+  </defs>
+
+  <!-- Main Card Container -->
+  <rect x="10" y="10" width="830" height="460" rx="14" fill="url(#card-bg)" stroke="url(#card-border)" stroke-width="1.5" filter="url(#shadow)" />
+
+  <!-- Top Title Bar -->
+  <rect x="10" y="10" width="830" height="42" rx="14" fill="#09090B" fill-opacity="0.6" />
+  <path d="M 10 52 L 840 52" stroke="#8B5CF6" stroke-opacity="0.15" stroke-width="1" />
+
+  <!-- Window Dots -->
+  <circle cx="35" cy="31" r="5.5" fill="#FF5F56" />
+  <circle cx="53" cy="31" r="5.5" fill="#FFBD2E" />
+  <circle cx="71" cy="31" r="5.5" fill="#27C93F" />
+
+  <!-- Title Text -->
+  <text x="425" y="35" text-anchor="middle" font-family="'Fira Code', monospace" font-size="12" fill="#94A3B8" font-weight="500">
+    ⚡ gaurab.config.ts
+  </text>
+
+  <!-- TS Badge -->
+  <rect x="765" y="21" width="55" height="20" rx="4" fill="#3178C6" fill-opacity="0.2" stroke="#3178C6" stroke-opacity="0.5" stroke-width="1" />
+  <text x="792" y="34" text-anchor="middle" font-family="'Fira Code', monospace" font-size="10" fill="#60A5FA" font-weight="700">TS</text>
+
+  <!-- Line Numbers -->
+  <g class="code-font line-num">
+    <text x="35" y="88">01</text>
+    <text x="35" y="112">02</text>
+    <text x="35" y="136">03</text>
+    <text x="35" y="160">04</text>
+    <text x="35" y="184">05</text>
+    <text x="35" y="208">06</text>
+    <text x="35" y="232">07</text>
+    <text x="35" y="256">08</text>
+    <text x="35" y="280">09</text>
+    <text x="35" y="304">10</text>
+    <text x="35" y="328">11</text>
+    <text x="35" y="352">12</text>
+    <text x="35" y="376">13</text>
+    <text x="35" y="400">14</text>
+    <text x="35" y="424">15</text>
+    <text x="35" y="448">16</text>
+  </g>
+
+  <!-- Vertical Divider Line -->
+  <line x1="62" y1="65" x2="62" y2="455" stroke="#94A3B8" stroke-opacity="0.1" stroke-width="1" />
+
+  <!-- Code Content -->
+  <g class="code-font" transform="translate(80, 0)">
+    <!-- Line 1 -->
+    <text x="0" y="88">
+      <tspan class="comment">// Developer Specification &amp; Profile Config</tspan>
+    </text>
+
+    <!-- Line 2 -->
+    <text x="0" y="112">
+      <tspan class="keyword">const</tspan> <tspan class="variable">gaurab</tspan> <tspan class="punctuation">=</tspan> <tspan class="punctuation">{</tspan>
+    </text>
+
+    <!-- Line 3 -->
+    <text x="20" y="136">
+      <tspan class="property">role</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"Full Stack Developer &amp; AI Engineer"</tspan><tspan class="punctuation">,</tspan>
+    </text>
+
+    <!-- Line 4 -->
+    <text x="20" y="160">
+      <tspan class="property">location</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"Assam, India 🇮🇳"</tspan><tspan class="punctuation">,</tspan>
+    </text>
+
+    <!-- Line 5 -->
+    <text x="20" y="184">
+      <tspan class="property">learning</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">"Docker"</tspan><tspan class="punctuation">,</tspan> <tspan class="string">"System Design"</tspan><tspan class="punctuation">,</tspan> <tspan class="string">"Cloud Native"</tspan><tspan class="punctuation">],</tspan>
+    </text>
+
+    <!-- Line 6 -->
+    <text x="20" y="208">
+      <tspan class="property">currentlyBuilding</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan
+    </text>
+
+    <!-- Line 7 -->
+    <text x="40" y="232">
+      <tspan class="string">"AI Trading Bot"</tspan><tspan class="punctuation">,</tspan>
+    </text>
+
+    <!-- Line 8 -->
+    <text x="40" y="256">
+      <tspan class="string">"CraftConnect Platform"</tspan><tspan class="punctuation">,</tspan>
+    </text>
+
+    <!-- Line 9 -->
+    <text x="40" y="280">
+      <tspan class="string">"DRYM Music Ecosystem"</tspan>
+    </text>
+
+    <!-- Line 10 -->
+    <text x="20" y="304">
+      <tspan class="punctuation">],</tspan>
+    </text>
+
+    <!-- Line 11 -->
+    <text x="20" y="328">
+      <tspan class="property">openTo</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">"Freelance Projects"</tspan><tspan class="punctuation">,</tspan> <tspan class="string">"Open Source"</tspan><tspan class="punctuation">,</tspan> <tspan class="string">"Hackathons"</tspan><tspan class="punctuation">],</tspan>
+    </text>
+
+    <!-- Line 12 -->
+    <text x="20" y="352">
+      <tspan class="property">funFact</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"I produce music at 2 AM &amp; turn code into sound 🎧"</tspan><tspan class="punctuation">,</tspan>
+    </text>
+
+    <!-- Line 13 -->
+    <text x="20" y="376">
+      <tspan class="property">coffeeLevel</tspan><tspan class="punctuation">:</tspan> <tspan class="keyword">Infinity</tspan><tspan class="punctuation">,</tspan>
+    </text>
+
+    <!-- Line 14 -->
+    <text x="20" y="400">
+      <tspan class="property">status</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"Shipping Code ⚡"</tspan>
+    </text>
+
+    <!-- Line 15 -->
+    <text x="0" y="424">
+      <tspan class="punctuation">};</tspan>
+    </text>
+
+    <!-- Line 16 -->
+    <text x="0" y="448">
+      <tspan class="keyword">export default</tspan> <tspan class="variable">gaurab</tspan><tspan class="punctuation">;</tspan>
+    </text>
+  </g>
+</svg>

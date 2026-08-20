@@ -1,0 +1,64 @@
+name: Daily README Update & Random Quote
+
+on:
+  schedule:
+    # Run every day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Fetch Quote & Update README
+        run: |
+          python -c '
+          import urllib.request
+          import json
+          import re
+
+          try:
+              req = urllib.request.Request("https://zenquotes.io/api/random", headers={"User-Agent": "Mozilla/5.0"})
+              with urllib.request.urlopen(req) as response:
+                  data = json.loads(response.read().decode())
+                  quote = data[0]["q"]
+                  author = data[0]["a"]
+                  quote_str = f"\"{quote}\" — **{author}**"
+          except Exception as e:
+              quote_str = "\"The best way to predict the future is to invent it.\" — **Alan Kay**"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = r"(<!-- QUOTE:START -->)(.*?)(<!-- QUOTE:END -->)"
+          replacement = f"\\1\n> 💬 {quote_str}\n\\3"
+          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+          '
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "chmod: update daily developer quote [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi

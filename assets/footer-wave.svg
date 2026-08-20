@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#09090B" stop-opacity="0" />
+      <stop offset="40%" stop-color="#111118" />
+      <stop offset="100%" stop-color="#09090B" />
+    </linearGradient>
+
+    <linearGradient id="wave-1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#6D5EFF" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.6" />
+    </linearGradient>
+
+    <linearGradient id="wave-2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6D5EFF" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#C084FC" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.3" />
+    </linearGradient>
+
+    <linearGradient id="glow-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#6D5EFF" />
+    </linearGradient>
+
+    <filter id="wave-glow" x="-10%" y="-20%" width="120%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base Rectangle -->
+  <rect width="1000" height="220" rx="16" fill="url(#footer-bg)" />
+
+  <!-- Wave 2 (Background Layer) -->
+  <path d="M 0 100 Q 250 40 500 90 T 1000 60 L 1000 220 L 0 220 Z" fill="url(#wave-2)" />
+
+  <!-- Wave 1 (Foreground Layer) -->
+  <path d="M 0 120 Q 250 70 500 110 T 1000 80 L 1000 220 L 0 220 Z" fill="url(#wave-1)" />
+
+  <!-- Top Accent Glowing Border Line -->
+  <path d="M 0 120 Q 250 70 500 110 T 1000 80" fill="none" stroke="url(#glow-line)" stroke-width="2.5" filter="url(#wave-glow)" />
+
+  <!-- Content Glass Box -->
+  <g transform="translate(200, 115)">
+    <rect width="600" height="75" rx="14" fill="#09090B" fill-opacity="0.85" stroke="#8B5CF6" stroke-opacity="0.4" stroke-width="1.5" />
+    <text x="300" y="34" text-anchor="middle" font-family="'Inter', sans-serif" font-size="14" font-weight="700" fill="#F8FAFC" letter-spacing="1">
+      DESIGNED &amp; HANDCRAFTED WITH <tspan fill="#EF4444">❤️</tspan> BY <tspan fill="#8B5CF6">GAURAB DOWERAH</tspan>
+    </text>
+    <text x="300" y="56" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#94A3B8">
+      Thanks for stopping by! Let's build something extraordinary together. ✨
+    </text>
+  </g>
+</svg>
