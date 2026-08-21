@@ -23,14 +23,6 @@
       <stop offset="50%" stop-color="#38BDF8" />
       <stop offset="100%" stop-color="#6366F1" />
     </linearGradient>
-
-    <filter id="wave-glow" x="-10%" y="-20%" width="120%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
   </defs>
 
   <!-- Base Rectangle -->
@@ -43,15 +35,15 @@
   <path d="M 0 120 Q 250 70 500 110 T 1000 80 L 1000 220 L 0 220 Z" fill="url(#wave-1)" />
 
   <!-- Top Accent Glowing Border Line -->
-  <path d="M 0 120 Q 250 70 500 110 T 1000 80" fill="none" stroke="url(#glow-line)" stroke-width="2" filter="url(#wave-glow)" />
+  <path d="M 0 120 Q 250 70 500 110 T 1000 80" fill="none" stroke="url(#glow-line)" stroke-width="2.5" />
 
   <!-- Content Glass Box -->
   <g transform="translate(180, 115)">
-    <rect width="640" height="75" rx="12" fill="#060913" fill-opacity="0.85" stroke="#8B5CF6" stroke-opacity="0.35" stroke-width="1.2" />
-    <text x="320" y="33" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="13" font-weight="700" fill="#F8FAFC" letter-spacing="1">
+    <rect width="640" height="75" rx="12" fill="#060913" fill-opacity="0.85" stroke="#8B5CF6" stroke-opacity="0.4" stroke-width="1.2" />
+    <text x="320" y="33" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#F8FAFC" letter-spacing="1">
       DESIGNED &amp; BUILT WITH <tspan fill="#EF4444">❤️</tspan> BY <tspan fill="#C084FC">GAURAB DOWERAH</tspan>
     </text>
-    <text x="320" y="55" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#94A3B8">
+    <text x="320" y="55" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="11" fill="#94A3B8">
       Building, learning, and shipping one project at a time. 🚀
     </text>
   </g>

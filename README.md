@@ -17,7 +17,7 @@
 <div align="center">
 
   <!-- ================= SECTION 1: HERO DASHBOARD BANNER ================= -->
-  <img src="assets/banner.svg" alt="Gaurab Dowerah Developer Dashboard" width="100%" />
+  <img src="./assets/banner.svg" alt="Gaurab Dowerah Developer Dashboard" width="100%" />
 
   <br/><br/>
 
@@ -26,7 +26,7 @@
     <tr>
       <td width="30%" align="center" valign="top">
         <br/>
-        <img src="assets/avatar-frame.svg" width="130" height="130" alt="Gaurab Avatar" />
+        <img src="./assets/avatar-frame.svg" width="130" height="130" alt="Gaurab Avatar" />
         <br/>
         <h3><b>Gaurab Dowerah</b></h3>
         <p><code>@Notyourapple</code></p>
@@ -84,13 +84,13 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SECTION 3: DEVELOPER CONFIG ================= -->
 ## ⚡ Developer Config (`gaurab.config.ts`)
 
 <div align="center">
-  <img src="assets/config-card.svg" alt="Gaurab Developer Config Card" width="100%" />
+  <img src="./assets/config-card.svg" alt="Gaurab Developer Config Card" width="100%" />
 </div>
 
 <br/>
@@ -106,7 +106,7 @@ const gaurab = {
 };
 ```
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SECTION 4: CURRENT PROJECTS TRACKER ================= -->
 ## 🚀 Current Projects Tracker
@@ -148,7 +148,7 @@ const gaurab = {
   </tbody>
 </table>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SECTION 5: FEATURED PROJECTS ================= -->
 ## ⭐ Featured Projects
@@ -184,7 +184,7 @@ const gaurab = {
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SECTION 6: TECH STACK ================= -->
 ## 💻 Tech Arsenal & Tooling
@@ -219,7 +219,7 @@ const gaurab = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,npm&perline=8&theme=dark" alt="Developer Tools" />
 </p>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SECTION 7: GITHUB STATS ================= -->
 ## 📊 GitHub Analytics & Insights
@@ -242,7 +242,7 @@ const gaurab = {
   </table>
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SECTION 8: CONTRIBUTION SNAKE ================= -->
 ## 🐍 Contribution Activity
@@ -255,7 +255,7 @@ const gaurab = {
   </picture>
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SECTION 9: AI & MACHINE LEARNING ================= -->
 ## 🧠 Intelligent AI & Machine Learning Suite
@@ -280,7 +280,7 @@ const gaurab = {
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SECTION 10: DEVELOPER JOURNEY ================= -->
 ## 🗺️ Developer Journey Roadmap
@@ -302,7 +302,7 @@ const gaurab = {
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SECTION 11: THOUGHT OF THE DAY ================= -->
 ## 💬 Thought of the Day
@@ -311,14 +311,14 @@ const gaurab = {
 > 💬 "What gets measured gets improved." — **Robin Sharma**
 <!-- QUOTE:END -->
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SECTION 12: FOOTER ================= -->
 <div align="center">
 
   <br/>
 
-  <img src="assets/footer-wave.svg" alt="Footer Wave" width="100%" />
+  <img src="./assets/footer-wave.svg" alt="Footer Wave" width="100%" />
 
   <br/><br/>
 

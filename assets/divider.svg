@@ -2,27 +2,28 @@
   <defs>
     <linearGradient id="div-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0" />
-      <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.3" />
-      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.9" />
-      <stop offset="80%" stop-color="#38BDF8" stop-opacity="0.3" />
+      <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="1" />
+      <stop offset="80%" stop-color="#38BDF8" stop-opacity="0.4" />
       <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
     </linearGradient>
 
-    <filter id="div-glow" x="-10%" y="-50%" width="120%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
+    <linearGradient id="glow-track" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0" />
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </linearGradient>
   </defs>
 
-  <!-- Glowing Line -->
-  <line x1="40" y1="15" x2="960" y2="15" stroke="url(#div-grad)" stroke-width="1.8" filter="url(#div-glow)" />
+  <!-- Ambient Glow Line -->
+  <line x1="100" y1="15" x2="900" y2="15" stroke="url(#glow-track)" stroke-width="6" stroke-linecap="round" />
+
+  <!-- Crisp Central Glowing Line -->
+  <line x1="40" y1="15" x2="960" y2="15" stroke="url(#div-grad)" stroke-width="2" stroke-linecap="round" />
 
   <!-- Central Sparkle / Diamond -->
   <g transform="translate(500, 15)">
-    <polygon points="0,-7 6,0 0,7 -6,0" fill="#C084FC" filter="url(#div-glow)" />
+    <polygon points="0,-7 6,0 0,7 -6,0" fill="#C084FC" />
     <circle cx="0" cy="0" r="2.5" fill="#FFFFFF" />
   </g>
   <circle cx="420" cy="15" r="2" fill="#8B5CF6" opacity="0.8" />
