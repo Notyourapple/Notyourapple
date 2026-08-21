@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 *"The best way to predict the future is to invent it."* — **Alan Kay**
+> 💬 "What gets measured gets improved." — **Robin Sharma**
 <!-- QUOTE:END -->
 
 <img src="assets/divider.svg" width="100%" />
