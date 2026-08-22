@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "What gets measured gets improved." — **Robin Sharma**
+> 💬 "True prayer has no set form." — **Morihei Ueshiba**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
