@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "True prayer has no set form." — **Morihei Ueshiba**
+> 💬 "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." — **James Matthew Barrie**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
