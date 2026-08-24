@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." — **James Matthew Barrie**
+> 💬 "A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled." — **Andrew Carnegie**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
