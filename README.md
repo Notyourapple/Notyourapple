@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled." — **Andrew Carnegie**
+> 💬 "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." — **Margaret Mead**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
