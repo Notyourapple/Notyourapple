@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." — **Margaret Mead**
+> 💬 "You can't make someone feel good about themselves until you feel good about yourself." — **Robin Sharma**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
