@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "You can't make someone feel good about themselves until you feel good about yourself." — **Robin Sharma**
+> 💬 "Change happens when the pain of holding on becomes greater than the fear of letting go." — **Spencer Johnson**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
