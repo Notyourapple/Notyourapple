@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Change happens when the pain of holding on becomes greater than the fear of letting go." — **Spencer Johnson**
+> 💬 "Genius, in truth, means little more than the faculty of perceiving in an unhabitual way." — **William James**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
