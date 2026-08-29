@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Genius, in truth, means little more than the faculty of perceiving in an unhabitual way." — **William James**
+> 💬 "The only way to do great work is to love what you do." — **Colin R. Davis**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
