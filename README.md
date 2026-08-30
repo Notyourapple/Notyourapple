@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "The only way to do great work is to love what you do." — **Colin R. Davis**
+> 💬 "Nothing important is learned; it is simply remembered." — **Carlos Ruiz Zafon**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
