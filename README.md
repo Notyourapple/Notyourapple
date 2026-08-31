@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Nothing important is learned; it is simply remembered." — **Carlos Ruiz Zafon**
+> 💬 "If you think you can do a thing or think you can't do a thing, you're right." — **Henry Ford**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
