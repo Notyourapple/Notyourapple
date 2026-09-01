@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "If you think you can do a thing or think you can't do a thing, you're right." — **Henry Ford**
+> 💬 "Try to be a rainbow in someone's cloud." — **Maya Angelou**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
