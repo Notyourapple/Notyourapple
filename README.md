@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Try to be a rainbow in someone's cloud." — **Maya Angelou**
+> 💬 "People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily." — **Zig Ziglar**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
