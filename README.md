@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily." — **Zig Ziglar**
+> 💬 "When I let go of what I am, I become what I might be." — **Lao Tzu**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
