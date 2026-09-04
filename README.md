@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "When I let go of what I am, I become what I might be." — **Lao Tzu**
+> 💬 "The dead receive more flowers than the living because regret is stronger than gratitude." — **Anne Frank**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
