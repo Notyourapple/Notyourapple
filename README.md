@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "The dead receive more flowers than the living because regret is stronger than gratitude." — **Anne Frank**
+> 💬 "It always seems impossible until it's done." — **Nelson Mandela**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
