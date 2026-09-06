@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "It always seems impossible until it's done." — **Nelson Mandela**
+> 💬 "Your time is limited, so don't waste it living someone elses. life." — **Steve Jobs**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
