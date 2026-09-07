@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Your time is limited, so don't waste it living someone elses. life." — **Steve Jobs**
+> 💬 "Through selfless service, you will always be fruitful and find the fulfillment of your desires." — **Bhagavad Gita**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
