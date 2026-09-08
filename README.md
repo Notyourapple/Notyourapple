@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Through selfless service, you will always be fruitful and find the fulfillment of your desires." — **Bhagavad Gita**
+> 💬 "Know the rules well, so you can break them effectively." — **Dalai Lama**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
