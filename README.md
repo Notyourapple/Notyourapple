@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Know the rules well, so you can break them effectively." — **Dalai Lama**
+> 💬 "If you are lucky enough to find love, remember it is there and don't throw it away." — **Stephen Hawking**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
