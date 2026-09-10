@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "If you are lucky enough to find love, remember it is there and don't throw it away." — **Stephen Hawking**
+> 💬 "Lack of direction, not lack of time, is the problem. We all have twenty-four hour days." — **Zig Ziglar**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
