@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Lack of direction, not lack of time, is the problem. We all have twenty-four hour days." — **Zig Ziglar**
+> 💬 "Change is never easy, but always possible." — **Barack Obama**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
