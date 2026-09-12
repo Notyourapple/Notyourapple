@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Change is never easy, but always possible." — **Barack Obama**
+> 💬 "The strength of a wall is neither greater nor less than the courage of the men who defend it." — **Genghis Khan**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
