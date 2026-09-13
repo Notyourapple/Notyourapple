@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "The strength of a wall is neither greater nor less than the courage of the men who defend it." — **Genghis Khan**
+> 💬 "We have a choice everyday regarding the attitude we will embrace for that day." — **Charles Swindoll**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
