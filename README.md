@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "We have a choice everyday regarding the attitude we will embrace for that day." — **Charles Swindoll**
+> 💬 "Make no small plans for they have no power to stir the soul." — **Niccolo Machiavelli**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
