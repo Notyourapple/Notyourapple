@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Make no small plans for they have no power to stir the soul." — **Niccolo Machiavelli**
+> 💬 "Tragedy is a tool for the living to gain wisdom, not a guide by which to live." — **Robert F. Kennedy**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
