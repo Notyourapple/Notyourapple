@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Tragedy is a tool for the living to gain wisdom, not a guide by which to live." — **Robert F. Kennedy**
+> 💬 "It is not how much we have, but how much we enjoy, that makes happiness." — **Charles Spurgeon**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
