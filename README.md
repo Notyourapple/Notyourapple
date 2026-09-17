@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "It is not how much we have, but how much we enjoy, that makes happiness." — **Charles Spurgeon**
+> 💬 "In peace, sons bury their fathers. In war, fathers bury their sons." — **Herodotus**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
