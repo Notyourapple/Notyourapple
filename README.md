@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "In peace, sons bury their fathers. In war, fathers bury their sons." — **Herodotus**
+> 💬 "I learned the value of hard work by working hard." — **Margaret Mead**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
