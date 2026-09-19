@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "I learned the value of hard work by working hard." — **Margaret Mead**
+> 💬 "Take good advice, make sure it is good advice, then do it your way." — **Vidal Sassoon**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
