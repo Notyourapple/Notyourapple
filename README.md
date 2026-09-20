@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Take good advice, make sure it is good advice, then do it your way." — **Vidal Sassoon**
+> 💬 "Chase your passion, not your pension." — **Denis Waitley**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
