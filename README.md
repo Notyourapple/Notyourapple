@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Chase your passion, not your pension." — **Denis Waitley**
+> 💬 "It doesn't matter how slow you go, as long as you don't stop." — **Confucius**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
