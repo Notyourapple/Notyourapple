@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "It doesn't matter how slow you go, as long as you don't stop." — **Confucius**
+> 💬 "That some achieve great success is proof to all that others can achieve it as well." — **Abraham Lincoln**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
