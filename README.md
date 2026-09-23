@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "That some achieve great success is proof to all that others can achieve it as well." — **Abraham Lincoln**
+> 💬 "The greatest discovery of all time is that a person can change their future by merely changing their attitude." — **Oprah Winfrey**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
