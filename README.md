@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "The greatest discovery of all time is that a person can change their future by merely changing their attitude." — **Oprah Winfrey**
+> 💬 "Never do things others can do and will do if there are things others cannot do or will not do." — **Amelia Earhart**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
