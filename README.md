@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Never do things others can do and will do if there are things others cannot do or will not do." — **Amelia Earhart**
+> 💬 "Patience is a bitter plant, but its fruit is sweet." — **Chinese Proverb**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
