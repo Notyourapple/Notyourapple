@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Patience is a bitter plant, but its fruit is sweet." — **Chinese Proverb**
+> 💬 "Fear is what stops you. Courage is what keeps you going." — **Unknown**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
