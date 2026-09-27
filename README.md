@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Fear is what stops you. Courage is what keeps you going." — **Unknown**
+> 💬 "All I can do is be me, whoever that is." — **Bob Dylan**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
