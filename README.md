@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "All I can do is be me, whoever that is." — **Bob Dylan**
+> 💬 "To be calm is the highest achievement of the self." — **Zen Proverb**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
