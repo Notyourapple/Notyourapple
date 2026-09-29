@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "To be calm is the highest achievement of the self." — **Zen Proverb**
+> 💬 "Blessed is he who expects nothing, for he shall be disappointed." — **Jonathan Swift**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
