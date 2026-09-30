@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Blessed is he who expects nothing, for he shall be disappointed." — **Jonathan Swift**
+> 💬 "Success is stumbling from failure to failure with no loss of enthusiasm." — **Winston Churchill**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
