@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "You can't get to a place that you don't believe exists." — **Unknown**
+> 💬 "Problems remain as problems because people are busy defending them rather than finding solutions." — **Celestine Chua**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
