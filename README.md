@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Problems remain as problems because people are busy defending them rather than finding solutions." — **Celestine Chua**
+> 💬 "The truth is heavy, therefore few care to carry it." — **Winston Churchill**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
