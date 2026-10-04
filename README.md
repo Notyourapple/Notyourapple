@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "The truth is heavy, therefore few care to carry it." — **Winston Churchill**
+> 💬 "Arise, slay thy enemies, enjoy a prosperous kingdom." — **Bhagavad Gita**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
