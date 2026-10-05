@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Arise, slay thy enemies, enjoy a prosperous kingdom." — **Bhagavad Gita**
+> 💬 "Mistake is a mistake only if you make it twice." — **Robin Sharma**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
