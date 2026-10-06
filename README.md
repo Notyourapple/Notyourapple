@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Mistake is a mistake only if you make it twice." — **Robin Sharma**
+> 💬 "What the caterpillar calls the end of the world, the master calls a butterfly." — **Richard Bach**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
