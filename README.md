@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "What the caterpillar calls the end of the world, the master calls a butterfly." — **Richard Bach**
+> 💬 "Catch, then, O catch the transient hour; Improve each moment as it flies!" — **St. Jerome**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
