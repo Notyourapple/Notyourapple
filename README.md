@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Catch, then, O catch the transient hour; Improve each moment as it flies!" — **St. Jerome**
+> 💬 "Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable." — **Earl Nightingale**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
