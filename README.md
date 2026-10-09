@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable." — **Earl Nightingale**
+> 💬 "Memory is the scribe of the soul." — **Aristotle**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
