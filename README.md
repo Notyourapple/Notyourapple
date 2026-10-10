@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Memory is the scribe of the soul." — **Aristotle**
+> 💬 "Our greatest glory is not in never falling but in rising every time we fall." — **Confucius**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
