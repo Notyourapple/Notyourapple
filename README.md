@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Our greatest glory is not in never falling but in rising every time we fall." — **Confucius**
+> 💬 "If you want to be successful, you have to jump, there's no way around it." — **Steve Harvey**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
