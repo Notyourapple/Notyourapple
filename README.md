@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "If you want to be successful, you have to jump, there's no way around it." — **Steve Harvey**
+> 💬 "Few things are more deceptive than memories." — **Carlos Ruiz Zafon**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
