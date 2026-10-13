@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Few things are more deceptive than memories." — **Carlos Ruiz Zafon**
+> 💬 "Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality." — **James Cameron**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
