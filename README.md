@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality." — **James Cameron**
+> 💬 "Failure is an option here. If things are not failing, you are not innovating enough." — **Elon Musk**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
