@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Failure is an option here. If things are not failing, you are not innovating enough." — **Elon Musk**
+> 💬 "A minute's success pays the failure of years." — **Robert Browning**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
