@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "A minute's success pays the failure of years." — **Robert Browning**
+> 💬 "Hold yourself responsible for a higher standard than anybody else expects of you." — **Henry Ward Beecher**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
