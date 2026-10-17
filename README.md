@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Hold yourself responsible for a higher standard than anybody else expects of you." — **Henry Ward Beecher**
+> 💬 "I begin with an idea and then it becomes something else." — **Pablo Picasso**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
