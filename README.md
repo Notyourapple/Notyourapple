@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "I begin with an idea and then it becomes something else." — **Pablo Picasso**
+> 💬 "A real friend is one who walks in when the rest of the world walks out." — **Unknown**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
