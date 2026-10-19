@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "A real friend is one who walks in when the rest of the world walks out." — **Unknown**
+> 💬 "Enjoy every minute of life. Never second-guess life." — **Michael Jordan**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
