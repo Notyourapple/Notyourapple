@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Enjoy every minute of life. Never second-guess life." — **Michael Jordan**
+> 💬 "Do not be so open-minded that your brains fall out." — **Gilbert Chesterton**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
