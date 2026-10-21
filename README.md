@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Do not be so open-minded that your brains fall out." — **Gilbert Chesterton**
+> 💬 "To arrive at the simplest truth requires years of contemplation." — **Isaac Newton**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
