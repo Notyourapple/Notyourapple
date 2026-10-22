@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "To arrive at the simplest truth requires years of contemplation." — **Isaac Newton**
+> 💬 "You can easily judge the character of a man by how he treats those who can do nothing for him." — **Johann Wolfgang von Goethe**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
