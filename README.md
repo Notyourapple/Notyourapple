@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "You can easily judge the character of a man by how he treats those who can do nothing for him." — **Johann Wolfgang von Goethe**
+> 💬 "A good character is the best tombstone. Carve your name on hearts, not on marble." — **Charles Spurgeon**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
