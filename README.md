@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "A good character is the best tombstone. Carve your name on hearts, not on marble." — **Charles Spurgeon**
+> 💬 "Time and health are two precious assets that we don't recognize and appreciate until they have been depleted." — **Denis Waitley**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
