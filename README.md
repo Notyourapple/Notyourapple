@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Time and health are two precious assets that we don't recognize and appreciate until they have been depleted." — **Denis Waitley**
+> 💬 "My powers are ordinary. Only my application brings me success." — **Isaac Newton**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
