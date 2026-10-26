@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "My powers are ordinary. Only my application brings me success." — **Isaac Newton**
+> 💬 "Laziness may appear attractive, but work gives satisfaction." — **Anne Frank**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
