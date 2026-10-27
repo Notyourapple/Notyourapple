@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Laziness may appear attractive, but work gives satisfaction." — **Anne Frank**
+> 💬 "Life doesn't get easier or more forgiving, we get stronger and more resilient." — **Steve Maraboli**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
