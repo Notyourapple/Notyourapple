@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Life doesn't get easier or more forgiving, we get stronger and more resilient." — **Steve Maraboli**
+> 💬 "He will win who knows when to fight and when not to fight." — **Sun Tzu**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
