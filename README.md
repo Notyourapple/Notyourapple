@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "He will win who knows when to fight and when not to fight." — **Sun Tzu**
+> 💬 "Judge your success by what you had to give up in order to get it." — **Dalai Lama**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
