@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Judge your success by what you had to give up in order to get it." — **Dalai Lama**
+> 💬 "Walk slowly but never walk backward." — **Unknown**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
