@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Walk slowly but never walk backward." — **Unknown**
+> 💬 "Make yourself so useful to other people, that they think you are irreplaceable." — **Og Mandino**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
