@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Make yourself so useful to other people, that they think you are irreplaceable." — **Og Mandino**
+> 💬 "To wish you were someone else is to waste the person you are." — **Unknown**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
