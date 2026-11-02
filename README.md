@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "To wish you were someone else is to waste the person you are." — **Unknown**
+> 💬 "Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results." — **James Allen**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
