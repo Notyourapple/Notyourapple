@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results." — **James Allen**
+> 💬 "Patience is not the ability to wait but the ability to keep a good attitude while waiting." — **Joyce Meyer**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
