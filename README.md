@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Patience is not the ability to wait but the ability to keep a good attitude while waiting." — **Joyce Meyer**
+> 💬 "Look to the beauty of this day, miracles are all around you." — **Mary Engelbreit**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
