@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Look to the beauty of this day, miracles are all around you." — **Mary Engelbreit**
+> 💬 "Study logic and math, because once you've mastered them, you won't fear any book." — **Naval Ravikant**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
