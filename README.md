@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Study logic and math, because once you've mastered them, you won't fear any book." — **Naval Ravikant**
+> 💬 "It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart." — **Roy T. Bennett**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
