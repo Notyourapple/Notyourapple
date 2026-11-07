@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart." — **Roy T. Bennett**
+> 💬 "If you do not push the boundaries, you will never know where they are." — **T.S. Eliot**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
