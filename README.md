@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "If you do not push the boundaries, you will never know where they are." — **T.S. Eliot**
+> 💬 "The greatest step towards a life of simplicity is to learn to let go." — **Steve Maraboli**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
