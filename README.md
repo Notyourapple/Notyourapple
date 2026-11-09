@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "The greatest step towards a life of simplicity is to learn to let go." — **Steve Maraboli**
+> 💬 "Rudeness is the weak man's imitation of strength." — **Eric Hoffer**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
