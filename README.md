@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Rudeness is the weak man's imitation of strength." — **Eric Hoffer**
+> 💬 "If you do not go within, you go without." — **Neale Donald Walsch**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
