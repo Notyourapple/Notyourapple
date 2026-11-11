@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "If you do not go within, you go without." — **Neale Donald Walsch**
+> 💬 "We've got to live, no matter how many skies have fallen." — **D. H. Lawrence**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
