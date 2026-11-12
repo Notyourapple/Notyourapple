@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "We've got to live, no matter how many skies have fallen." — **D. H. Lawrence**
+> 💬 "Just do the best you can. No one can do more than that." — **John Wooden**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
