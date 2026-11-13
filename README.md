@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Just do the best you can. No one can do more than that." — **John Wooden**
+> 💬 "The first principle of success is desire." — **Robert Collier**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
