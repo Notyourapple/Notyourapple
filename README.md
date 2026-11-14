@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "The first principle of success is desire." — **Robert Collier**
+> 💬 "Being wrong opens us up to the possibility of change." — **Mark Manson**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
