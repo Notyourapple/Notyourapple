@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Being wrong opens us up to the possibility of change." — **Mark Manson**
+> 💬 "I've always tried to go a step past wherever people expected me to end up." — **Beverly Sills**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
