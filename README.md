@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "I've always tried to go a step past wherever people expected me to end up." — **Beverly Sills**
+> 💬 "People who have goals succeed because they know where they're going. It's that simple." — **Earl Nightingale**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
