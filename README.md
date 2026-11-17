@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "People who have goals succeed because they know where they're going. It's that simple." — **Earl Nightingale**
+> 💬 "You give but little when you give of your possessions. It is when you give of yourself that you truly give." — **Kahlil Gibran**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
