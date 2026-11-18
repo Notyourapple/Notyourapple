@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "You give but little when you give of your possessions. It is when you give of yourself that you truly give." — **Kahlil Gibran**
+> 💬 "Life is what happens to you while you're busy making other plans." — **John Lennon**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
