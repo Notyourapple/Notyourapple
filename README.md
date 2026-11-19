@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Life is what happens to you while you're busy making other plans." — **John Lennon**
+> 💬 "If you think you can do a thing or think you can't do a thing, you're right." — **Henry Ford**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
