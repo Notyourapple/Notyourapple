@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "If you think you can do a thing or think you can't do a thing, you're right." — **Henry Ford**
+> 💬 "Don't let the noise of others' opinions drown out your own inner voice." — **Steve Jobs**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
