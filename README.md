@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Don't let the noise of others' opinions drown out your own inner voice." — **Steve Jobs**
+> 💬 "But better die than live mechanically a life that is a repetition of repetitions." — **D. H. Lawrence**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
