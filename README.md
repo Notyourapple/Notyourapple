@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "But better die than live mechanically a life that is a repetition of repetitions." — **D. H. Lawrence**
+> 💬 "Thinking is the hardest work there is, which is probably the reason why so few engage in it." — **Henry Ford**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
