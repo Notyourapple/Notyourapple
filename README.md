@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Thinking is the hardest work there is, which is probably the reason why so few engage in it." — **Henry Ford**
+> 💬 "What kills the creative force is not age or lack of talent, but our own spirit, our own attitude." — **Robert Greene**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
