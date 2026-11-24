@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "What kills the creative force is not age or lack of talent, but our own spirit, our own attitude." — **Robert Greene**
+> 💬 "Make each day your masterpiece." — **John Wooden**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
