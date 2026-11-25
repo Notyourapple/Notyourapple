@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Make each day your masterpiece." — **John Wooden**
+> 💬 "If you genuinely want something, don't wait for it - teach yourself." — **Gurbaksh Chahal**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
