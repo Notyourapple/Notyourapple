@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "If you genuinely want something, don't wait for it - teach yourself." — **Gurbaksh Chahal**
+> 💬 "Don't let anyone define you. You define yourself." — **Billie Jean King**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
