@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Don't let anyone define you. You define yourself." — **Billie Jean King**
+> 💬 "Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad." — **Harry S. Truman**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
