@@ -308,7 +308,7 @@ const gaurab = {
 ## 💬 Thought of the Day
 
 <!-- QUOTE:START -->
-> 💬 "Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad." — **Harry S. Truman**
+> 💬 "A needle is not sharp at both ends." — **Chinese Proverb**
 <!-- QUOTE:END -->
 
 <img src="./assets/divider.svg" width="100%" />
